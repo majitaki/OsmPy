@@ -3,6 +3,9 @@ OsmPy
 
 OsmPy is a Python package for the creation, manipulation, and study of the dynamics of information propagation in complex networks.
 
+* Documentation: https://majitaki.github.io/OsmPy/
+* Source: https://github.com/majitaki/OsmPy
+
 ## Requirement
 Python3
 networkx
@@ -16,7 +19,7 @@ pip install osmpy
 
 ## Usage
 
-```sh
+```python
 import PyOSM as osm
 import networkx as nx
 import pandas as pd
