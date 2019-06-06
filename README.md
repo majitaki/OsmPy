@@ -22,7 +22,7 @@ pip install osmpy
 ## Usage
 
 ```python
-import PyOSM as osm
+import OsmPy as osm
 import networkx as nx
 import pandas as pd
 
