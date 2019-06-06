@@ -8,7 +8,9 @@ OsmPy is a Python package for the creation, manipulation, and study of the dynam
 
 ## Requirement
 Python3
+
 networkx
+
 pandas
 
 ## Install
