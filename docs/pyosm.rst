@@ -1,20 +1,20 @@
-pyosm package
+osmpy package
 =============
 
 Submodules
 ----------
 
-pyosm.cli module
+osmpy.cli module
 ----------------
 
-.. automodule:: pyosm.cli
+.. automodule:: osmpy.cli
    :members:
    :undoc-members:
    :show-inheritance:
-pyosm.core module
+osmpy.core module
 -----------------
 
-.. automodule:: pyosm.core
+.. automodule:: osmpy.core
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ pyosm.core module
 Module contents
 ---------------
 
-.. automodule:: pyosm
+.. automodule:: osmpy
    :members:
    :undoc-members:
    :show-inheritance:

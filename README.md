@@ -1,15 +1,15 @@
-PyOSM
+OsmPy
 ====
 
 Overview
 
 ## Description
-PyOSM is a Python package for the creation, manipulation, and study of the dynamics of information propagation in complex networks.
+OsmPy is a Python package for the creation, manipulation, and study of the dynamics of information propagation in complex networks.
 
 ## Install
 
 ```sh
-pip install pyosm
+pip install osmpy
 ```
 ## Requirement
 

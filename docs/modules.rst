@@ -1,7 +1,7 @@
-pyosm
+osmpy
 =====
 
 .. toctree::
    :maxdepth: 4
 
-   pyosm
+   osmpy

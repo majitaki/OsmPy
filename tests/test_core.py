@@ -1,4 +1,4 @@
-from pyosm import add
+from osmpy import add
 
 
 def test_add():

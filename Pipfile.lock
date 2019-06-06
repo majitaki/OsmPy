@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4bc9cfbe4a85ee48e51f042bd87d2d17f16ec11e10224916c273c794d4501f38"
+            "sha256": "54727076d204f62ec60b355d9586d1ac3f2a6a3342c0fd88208dd7f2a87d8b04"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -239,6 +239,10 @@
             ],
             "version": "==0.4.1"
         },
+        "osmpy": {
+            "editable": true,
+            "path": "."
+        },
         "packaging": {
             "hashes": [
                 "sha256:0c98a5d0be38ed775798ece1b9727178c4469d9c3b4ada66e8e6b7849f8732af",
@@ -280,10 +284,6 @@
                 "sha256:881c4c157e45f30af185c1ffe8d549d48ac9127433f2c380c24b84572ad66297"
             ],
             "version": "==2.4.2"
-        },
-        "pyosm": {
-            "editable": true,
-            "path": "."
         },
         "pyparsing": {
             "hashes": [

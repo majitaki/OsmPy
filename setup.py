@@ -5,7 +5,7 @@ import subprocess
 
 from setuptools import Command, setup
 
-PACKAGE_NAME = 'pyosm'
+PACKAGE_NAME = 'osmpy'
 
 with open(os.path.join(PACKAGE_NAME, '__init__.py')) as f:
     match = re.search(r'__version__\s+=\s+(.*)', f.read())

@@ -9,7 +9,7 @@ verify_ssl = true
 [packages]
 
 [dev-packages]
-pyosm = {path = ".",editable = true}
+osmpy = {path = ".",editable = true}
 pytest = ">=3"
 coverage = "*"
 tox = "*"
