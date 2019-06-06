@@ -36,12 +36,12 @@ class FmtCommand(SimpleCommand):
 
 class DocCommand(SimpleCommand):
     def run(self):
-        opt = "-f" if os.path.exists(os.path.join("docs", "conf.py")) else "-F"
-        subprocess.call(["sphinx-apidoc", opt, "-o", "docs", PACKAGE_NAME])
+        opt = "-f" if os.path.exists(os.path.join("docs_src", "conf.py")) else "-F"
+        subprocess.call(["sphinx-apidoc", opt, "-o", "docs_src", PACKAGE_NAME])
         if os.name == 'nt':
-            subprocess.call([os.path.join("docs", "make.bat"), "html"])  # for Windows
+            subprocess.call([os.path.join("docs_src", "make.bat"), "html"])  # for Windows
         else:
-            subprocess.call(["make", "-C", "docs", "html"])
+            subprocess.call(["make", "-C", "docs_src", "html"])
 
 
 setup(
