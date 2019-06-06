@@ -14,10 +14,11 @@ pip install osmpy
 me
 
 ## Licence
-Released under the 3-Clause BSD license (see LICENSE.txt)::
-   Copyright (C) 2019 OsmPy Developers
-   Eiki Kitajima <majitaki1234@gmail.com>
-
+Released under the 3-Clause BSD license (see LICENSE.txt)
+'''
+Copyright (C) 2019 OsmPy Developers
+Eiki Kitajima <majitaki1234@gmail.com>
+'''
 
 ## Author
 Eiki Kitajima
